@@ -26,7 +26,7 @@ function App() {
           <Input placeholder="password" />
           <Center>
             <Button onClick={login} colorScheme='cyan' size='sm' width='100%' marginTop='5px'>
-              Button
+              Entrar
             </Button>
           </Center>
         </Box>
