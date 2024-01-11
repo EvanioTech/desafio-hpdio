@@ -22,8 +22,8 @@ function App() {
           <Center>
             <h1>Faça o login</h1>
           </Center>
-          <Input placeholder="email" />
-          <Input placeholder="password" />
+          <Input  placeholder="email" />
+          <Input  placeholder="password" />
           <Center>
             <Button onClick={login} colorScheme='cyan' size='sm' width='100%' marginTop='5px'>
               Entrar
